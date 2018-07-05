@@ -61,4 +61,5 @@ export default class extends React.Component{
 ## resources:
 + https://github.com/gaearon/react-hot-loader
 + https://github.com/afeiship/webpack-notes
++ https://larrylu.blog/react-decorator-hoc-2536db2737cb
 
