@@ -1,5 +1,7 @@
 var hot = require('react-hot-loader').hot;
 
-module.exports = function (inClass) {
-  return hot(module)(inClass);
+module.exports = function (inModule) {
+  return function (inClass) {
+    return hot(inModule)(inClass);;
+  }
 };
