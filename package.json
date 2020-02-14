@@ -11,5 +11,8 @@
     "react-hot-loader": "^4.12.19"
   },
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
