@@ -1,14 +1,14 @@
 {
-  "name": "react-hmr-decorator",
-  "version": "0.0.1",
-  "description": "React hot module reload decorator",
+  "name": "@feizheng/react-hmr-decorator",
+  "version": "1.0.0",
+  "description": "React hot module reload decorator.",
   "homepage": "https://github.com/afeiship/react-hmr-decorator",
   "author": {
     "name": "afei",
     "email": "1290657123@qq.com"
   },
   "dependencies": {
-    "react-hot-loader": "^4.3.3"
+    "react-hot-loader": "^4.12.19"
   },
   "main": "index.js",
   "license": "MIT"

@@ -1,9 +1,9 @@
 # react-hmr-decorator
 > React hot module reload decorator
 
-## install:
+## installation
 ```bash
-npm install -D afeiship/react-hmr-decorator
+npm install @feizheng/react-hmr-decorator
 ```
 
 ## usage
@@ -58,8 +58,8 @@ export default class extends React.Component{
 },
 ```
 
-## resources:
-+ https://github.com/gaearon/react-hot-loader
-+ https://github.com/afeiship/webpack-notes
-+ https://larrylu.blog/react-decorator-hoc-2536db2737cb
+## resources
+- https://github.com/gaearon/react-hot-loader
+- https://github.com/afeiship/webpack-notes
+- https://larrylu.blog/react-decorator-hoc-2536db2737cb
 
