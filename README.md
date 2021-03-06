@@ -3,7 +3,7 @@
 
 ## installation
 ```bash
-npm install @feizheng/react-hmr-decorator
+npm install @jswork/react-hmr-decorator
 ```
 
 ## usage

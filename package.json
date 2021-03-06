@@ -1,5 +1,5 @@
 {
-  "name": "@feizheng/react-hmr-decorator",
+  "name": "@jswork/react-hmr-decorator",
   "version": "1.0.0",
   "description": "React hot module reload decorator.",
   "homepage": "https://github.com/afeiship/react-hmr-decorator",
@@ -13,6 +13,13 @@
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org/"
+  },
+  "scripts": {
+    "release": "release-it"
+  },
+  "devDependencies": {
+    "release-it": "^14.4.1"
   }
 }
